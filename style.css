@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+a {
+    color: rgb(0, 0, 228);
+}
+
+iframe {
+    border-radius: 12px;
+    aspect-ratio: 30 / 11;
+}
